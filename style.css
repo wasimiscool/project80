@@ -1,0 +1,25 @@
+body{
+    font-family: 'Cookie', cursive;
+    background: url("https://previews.123rf.com/images/photostok/photostok1202/photostok120200014/12290891-old-paper-background-with-space-for-text.jpg");
+    background-position: center;
+    background-size: cover;
+    font-size: 25px;
+}
+.heading{
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 40px;
+}
+.left{
+    float: left;
+    margin-left: 50px;
+}
+.right{
+    float: right;
+    margin-right: 50px;
+}
+.left h4{
+    font-weight: bold;
+}
+.right h4{
+    font-weight: bold;
+}
